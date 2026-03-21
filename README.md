@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2018b%2B-orange.svg)](https://www.mathworks.com/)
 
+## Table of Contents
+
 - [About](#-about)
 - [Book Description](#-book-description)
 - [Repository Structure](#️-repository-structure)
