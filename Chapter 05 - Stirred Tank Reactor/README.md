@@ -12,6 +12,7 @@
 - [Input Data Format](#input-data-format)
 - [Output](#output)
 - [Notes](#notes)
+- [Advanced Usage](#advanced-usage)
 - [References](#references)
 
 ## Overview
@@ -227,6 +228,15 @@ The scripts provide:
 - Adjust file paths in scripts if necessary to match your directory structure.
 - For CFD simulations, you will need access to ANSYS Fluent or similar CFD software.
 - The `Jupyter_notebook.pdf` and `MATLAB_Livescript.pdf` provide pre-executed outputs and can be used for reference without running any code.
+
+## Advanced Usage
+
+For sensitivity analysis or uncertainty quantification:
+1. Vary the CCD factor ranges and re-run the DOE to assess the robustness of optimal designs
+2. Perform leave-one-out cross-validation on the polynomial and kriging surrogate models to evaluate prediction accuracy
+3. Conduct a Monte Carlo analysis on the Pareto-optimal solutions to quantify the effect of input uncertainties on the responses
+4. Compare polynomial and kriging surrogate model predictions to identify the most reliable metamodel for each response
+5. Validate the optimised design points against independent CFD simulations or experimental measurements
 
 ## References
 
