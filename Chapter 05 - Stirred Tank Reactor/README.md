@@ -172,6 +172,7 @@ Runs all four steps interactively with inline outputs and plots.
 Install using:
 ```bash
 pip install -r requirements.txt
+```
 
 ### MATLAB Toolboxes
 - Statistics and Machine Learning Toolbox
