@@ -68,6 +68,7 @@ The book covers advanced mathematical modeling and optimisation techniques for f
 #### For Python
 - Python 3.7 or higher
 - pip package manager
+- virtual environment manager
 
 #### For MATLAB
 - MATLAB R2018b or higher
