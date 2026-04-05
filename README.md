@@ -25,7 +25,7 @@ This repository contains the supplementary software codes and data for the book 
 
 ![image alt](https://github.com/hollander196/hollander196-Modelling-and-Optimisation-of-Fluid-Particle-Processes-in-Environmental-Engineering/blob/0cfee4f53ed007032f02b5ea110e6eb192514e79/Book%20cover.jpg)
 
-![Link to the Publisher](https://www.taylorfrancis.com/books/edit/10.1201/9781003518426/modelling-optimisation-fluid%E2%80%93particle-processes-environmental-engineering-benjamin-oyegbile)
+[Link to the Publisher](https://www.taylorfrancis.com/books/edit/10.1201/9781003518426/modelling-optimisation-fluid%E2%80%93particle-processes-environmental-engineering-benjamin-oyegbile)
 
 
 ## 📚 Book Description
