@@ -81,8 +81,8 @@ The book covers advanced mathematical modeling and optimisation techniques for f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hollander196/Modelling-and-Optimisation-of-Fluid-Particle-Processes-in-Environmental-Engineering.git
-cd Modelling-and-Optimisation-of-Fluid-Particle-Processes-in-Environmental-Engineering
+git clone https://github.com/hollander196/SciML-Fluid-Particle.git
+cd SciML-Fluid-Particle
 ```
 
 
