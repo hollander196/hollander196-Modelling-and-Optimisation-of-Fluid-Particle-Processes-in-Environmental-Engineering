@@ -96,21 +96,21 @@ The script will:
 
 #### Step (ii) — Solve Model Equations
 ```bash
-python Solving_mathematical_model_equations.py
+python "Solving_mathematical_model_equations.py"
 ```
 
 Uses estimated parameters to compute and plot J, ΔPc, Ps, ε, and α profiles over time.
 
 #### Step (iii) — Predict Flux Decline (Constant Pressure)
 ```bash
-python Prediction_of_flux_decline.py
+python "Prediction_of_flux_decline.py"
 ```
 
 Plots permeate flux (LMH) vs time (minutes) for a constant-pressure run.
 
 #### Step (iv) — Predict Pressure Drop (Constant Flux)
 ```bash
-python Prediction_of_pressure_drop.py
+python "Prediction_of_pressure_drop.py"
 ```
 
 Plots total pressure drop (kPa) vs time (minutes) for a constant-flux run.
