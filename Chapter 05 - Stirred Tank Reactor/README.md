@@ -104,7 +104,7 @@ python "Response_surface_and_contour_plots.py"
 Perform a response surface analysis and create a 3D response surface and 2D contour plots for the significant intercations.
 
 #### Step (iv) — Perform a MOGA optimisation using polynomial function for the desired responses
-```matlab
+```bash
 python "MOGA_optisation_with_polynomial.py"
 ``
 
